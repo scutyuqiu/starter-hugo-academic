@@ -1,9 +1,8 @@
 ---
-title: "Online Reliability-Enhanced Virtual Network Services Provisioning in Fault-Prone Mobile Edge Cloud"
+title: "Online Reliability-Enhanced Virtual Network Services Provisioning in Fault-Prone Mobile Edge Cloud, Yu Qiu, Junbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng."
 authors:
 - Yu Qiu, Junbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng.
 author_notes:
-- Yu Qiu, Junbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng.
 #- "Equal contribution"
 date: "2022-03-15T00:00:00Z"
 doi: "10.1109/TWC.2022.3157606"
@@ -24,11 +23,11 @@ publication_short: "TWC"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: “”
+#summary: “”
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+featured: true
 
 # links:
 # - name: ""
@@ -45,7 +44,7 @@ url_pdf: https://ieeexplore.ieee.org/document/9735161
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'FP-MEC: [****](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -71,5 +70,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 #Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
