@@ -1,8 +1,9 @@
 ---
 title: "Online Reliability-Enhanced Virtual Network Services Provisioning in Fault-Prone Mobile Edge Cloud"
 authors:
-- Yu QiuJunbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng.
+- Yu Qiu, Junbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng.
 author_notes:
+- Yu Qiu, Junbin Liang , Victor C. M. Leung , Xu Wu , and Xia Deng.
 #- "Equal contribution"
 date: "2022-03-15T00:00:00Z"
 doi: "10.1109/TWC.2022.3157606"
@@ -17,8 +18,8 @@ publishDate: "2022-03-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS"
+publication_short: "TWC"
 
 abstract: ""
 
