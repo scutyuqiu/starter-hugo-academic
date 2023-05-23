@@ -10,8 +10,8 @@ main:
   - name: News
     url: '#posts'
     weight: 20
-  - name: Academic Publications
-    url: '#collection'
+  - name: Publications
+    url: '#publications'
     weight: 30
   - name: Research Projects
     url: '#projects'

@@ -41,6 +41,7 @@ sections:
       columns: '2'
 
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
@@ -84,6 +85,7 @@ sections:
       flip_alt_rows: false
 
   - block: markdown
+    id: markdown
     content:
       title: Photograph
       subtitle: ''
