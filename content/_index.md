@@ -42,7 +42,7 @@ sections:
 
   - block: collection
     content:
-      title: Academic Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -56,9 +56,9 @@ sections:
       view: citation
 
   - block: portfolio
-    id: Research projects
+    id:  projects
     content:
-      title: Projects
+      title: Research Projects
       filters:
         folders:
           - project
@@ -82,9 +82,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
   - block: markdown
     content:
-      title: Gallery
+      title: Photograph
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
