@@ -7,17 +7,17 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
-    url: '#featured'
-    weight: 20
-  - name: Submitted
+  - name: News
     url: '#posts'
+    weight: 20
+  - name: Academic Publications
+    url: '#collection'
     weight: 30
-  - name: Awards
+  - name: Research Projects
     url: '#projects'
     weight: 40
   - name: Photograph
-    url: '#projects'
+    url: '#markdown'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
