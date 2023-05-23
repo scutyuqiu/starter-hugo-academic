@@ -42,7 +42,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Academic Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -56,7 +56,7 @@ sections:
       view: citation
 
   - block: portfolio
-    id: projects
+    id: Research projects
     content:
       title: Projects
       filters:
