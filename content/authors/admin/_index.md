@@ -25,10 +25,10 @@ organizations:
 bio: My research interests include metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
 
 # Interests to show in About widget
-contact:
+Interest:
+  - Edge intelligence
   - Resource allocation
   - Approximation algorithm
-  - Reinforcement learning
 
 # Education to show in About widget
 education:
