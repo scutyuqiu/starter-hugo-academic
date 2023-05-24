@@ -80,5 +80,7 @@ email: qyu_edu@163.com
 highlight_name: false
 ---
 
- 你好~, Welcome all to the website~. Yu Qiu is a master of computer technology at Guangxi University. His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
+ 你好~! Welcome all to my website~! 
+
+ Yu Qiu is a master of computer technology at Guangxi University. His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
 {style="text-align: justify;"}
