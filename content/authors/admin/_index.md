@@ -36,8 +36,8 @@ education:
     #- course: PhD in Artificial Intelligence
     #  institution: South China University of Technology, supervisor: Min Chen.
     #  year: 2023
-    - course: MEng in Computer Technology
-      institution: Guangxi University (supervisor: Junbin Liang)
+    - course: MEng in Computer Technology (supervisor: Junbin Liang)
+      institution: Guangxi University
       year: 2020
     - course: BSc in Pharmaceutical Engineering
       institution: Tianjin University of Technology
