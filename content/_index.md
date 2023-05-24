@@ -93,4 +93,21 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      email: qyu_edu@163.com
+      address:
+        street: No. 100, University East Road, Xixiangtang District
+        city: Nanning
+        province: Guangxi Province
+        country: China
+      office_hours:
+        - 'Monday 8:00 to 20:00'
+        - 'Wednesday 9:00 to 12:00'
+    design:
+      columns: '2'
 ---
