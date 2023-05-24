@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/9735161
+url_pdf: https://book.baige.me/view/bpB
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
@@ -68,11 +68,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: " "
 ---
-
-#{{% callout note %}}
-#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
-
-#{{% callout note %}}
-#Create your slides in Markdown - click the _Slides_ button to check out the example.
-#{{% /callout %}}
