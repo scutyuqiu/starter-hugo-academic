@@ -1,11 +1,11 @@
 ---
 title: "Online Reliability-Enhanced Virtual Network Services Provisioning in Fault-Prone Mobile Edge Cloud"
 authors:
-- Yu Qiu，
-- Junbin Liang，
-- Victor C. M. Leung，  
-- Xu Wu， 
-- Xia Deng.
+- Yu Qiu
+- Junbin Liang
+- Victor C. M. Leung  
+- Xu Wu
+- Xia Deng
 author_notes:
 #- "Equal contribution"
 
@@ -28,7 +28,7 @@ publication_short: "TWC"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-#summary: “”
+# summary: “”
 
 tags: []
 
@@ -59,14 +59,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: " "
 ---
 
 {{% callout note %}}
