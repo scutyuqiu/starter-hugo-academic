@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://book-upload-1251142715.cos.ap-shanghai.myqcloud.com/844fc15d-f7cc-4320-a3ee-d40e7857d58c/Online_Reliability-Enhanced_Virtual_Network_Services_Provisioning_in_Fault-Prone_Mobile_Edge_Cloud.pdf
+url_pdf: https://maipdf.com/doc/d5069026733.maipdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''
