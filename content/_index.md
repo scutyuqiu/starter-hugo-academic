@@ -106,8 +106,8 @@ sections:
         province: Guangxi Province
         country: China
       office_hours:
-        - 'Monday 8:00 to 20:00'
-        - 'Wednesday 9:00 to 12:00'
+        - 'workday 9:00 to 18:00'
+        - 'weekend 9:00 to 11:00'
     design:
       columns: '2'
 ---
