@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Computer technology
+role: Doctoral candidate of artificial intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -81,6 +81,5 @@ highlight_name: false
 ---
 
 你好~👋👋👋! Welcome all to my academic website~❤️❤️❤️! 
-
- Yu Qiu is a master of computer technology at Guangxi University. His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
+Yu Qiu is a doctoral candidate of artificial intelligence at South China University of Technology. He received the B.E. degree from the Tianjin University of Technology, Tianjin, China, in 2020, and received  the M.Eng. degree in computer technology from Guangxi University, Nanning, China. His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
 {style="text-align: justify;"}
