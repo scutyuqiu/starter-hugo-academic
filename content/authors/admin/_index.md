@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: South China University of Technology, supervisor by Prof. Chen Min, FIEEE
+      institution: South China University of Technology, supervised by Prof. Chen Min, FIEEE
       year: 2023
     - course: MEng in Computer Technology
       institution: Guangxi University, supervised by Prof. Junbin Liang
