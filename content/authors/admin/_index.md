@@ -34,10 +34,12 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: South China University of Technology, supervised prof. by Chen Min.
+      institution: South China University of Technology, 
+      Supervisor: Dear prof. Chen Min.
       year: 2023
     - course: MEng in Computer Technology
-      institution: Guangxi University, supervised by prof. Junbin Liang.
+      institution: Guangxi University, 
+      Superviser: Dear prof. Junbin Liang.
       year: 2020
     - course: BSc in Pharmaceutical Engineering
       institution: Tianjin University of Technology
