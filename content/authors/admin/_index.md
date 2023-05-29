@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD Candidate in Artificial Intelligence
       institution: South China University of Technology, supervised by Prof. Chen Min, FIEEE
-      year: 2023
+      year: 23 ~ today
     - course: MEng in Computer Technology
       institution: Guangxi University, supervised by Prof. Junbin Liang
-      year: 2020
+      year: 20 ~ 23
     - course: BSc in Pharmaceutical Engineering
       institution: Tianjin University of Technology
-      year: 2016
+      year: 16 ~ 20
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
