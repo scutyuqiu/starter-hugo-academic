@@ -33,11 +33,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    #- course: PhD in Artificial Intelligence
-    #  institution: South China University of Technology, supervisor: Min Chen.
-    #  year: 2023
+    - course: PhD in Artificial Intelligence
+      institution: South China University of Technology, supervised prof. by Chen Min.
+      year: 2023
     - course: MEng in Computer Technology
-      institution: Guangxi University
+      institution: Guangxi University, supervised by prof. Junbin Liang.
       year: 2020
     - course: BSc in Pharmaceutical Engineering
       institution: Tianjin University of Technology
