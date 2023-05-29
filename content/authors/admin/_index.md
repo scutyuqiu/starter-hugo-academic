@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral candidate of artificial intelligence
+role: Doctoral Candidate of Network
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Guangxi University
+  - name: South China University of Technology
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,10 +34,10 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: South China University of Technology,                     Supervisor, Dear Prof. Chen Min
+      institution: South China University of Technology, supervisor by Prof. Chen Min, FIEEE
       year: 2023
     - course: MEng in Computer Technology
-      institution: Guangxi University,  Supervised by dear Prof. Junbin Liang.
+      institution: Guangxi University, supervised by Prof. Junbin Liang.
       year: 2020
     - course: BSc in Pharmaceutical Engineering
       institution: Tianjin University of Technology
@@ -81,5 +81,9 @@ highlight_name: false
 ---
 
 你好~👋👋👋! Welcome all to my academic website~❤️❤️❤️! 
-Yu Qiu is a doctoral candidate of artificial intelligence at South China University of Technology. He received the B.E. degree from the Tianjin University of Technology, Tianjin, China, in 2020, and received  the M.Eng. degree in computer technology from Guangxi University, Nanning, China. His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
+
+Yu Qiu is a doctoral candidate of artificial intelligence at South China University of Technology. 
+He received the B.E. degree from the Tianjin University of Technology, Tianjin, China, in 2020, 
+and received  the M.Eng. degree in computer technology from Guangxi University, Nanning, China. 
+His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
 {style="text-align: justify;"}
