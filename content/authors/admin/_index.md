@@ -84,6 +84,6 @@ highlight_name: false
 
 Yu Qiu is a PhD candidate of Artificial Intelligence at the South China University of Technology. 
 He received the B.E. degree from the Tianjin University of Technology, Tianjin, China, in 2020, 
-and received  the M.Eng. degree in computer technology from Guangxi University, Nanning, China. 
+and received  the M.Eng. degree in computer technology from Guangxi University, Nanning, China, in 2023. 
 His research interests  metaverse, edge intelligence, mobile edge computing, network function virtualization, combinatorial optimization.
 {style="text-align: justify;"}
