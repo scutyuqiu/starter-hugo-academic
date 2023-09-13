@@ -1,8 +1,8 @@
 ---
 title: 移动边缘智能云中容错AI服务链关键技术研究
-summary: 
+summary: 国家自然科学基金 （国家级）
 tags:
-  - Deep Learning
+  - Artificial intelligence
 date: '2023-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
