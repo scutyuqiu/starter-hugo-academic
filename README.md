@@ -50,4 +50,5 @@ We're an open source movement that depends on your support to stay online and th
 <!--END_SECTION:news-->
 
 
-<a href="https://info.flagcounter.com/k71a"><img src="https://s01.flagcounter.com/countxl/k71a/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/L401"><img src="https://s01.flagcounter.com/map/L401/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
