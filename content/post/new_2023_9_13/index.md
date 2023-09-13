@@ -1,6 +1,6 @@
 ---
-title: Congratulation🎉🎉🎉！One of our paper accepted by TMC (CCF A) 🎇🎇🎇！
-subtitle: After two years, our latest work is "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence. Cloud "is finally published in TMC (CCF A).
+title: 2023-09 Congratulation🎉🎉🎉！One of our paper accepted by TMC (CCF A) 🎇🎇🎇！
+subtitle: After two years, our latest work is "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence Cloud "is finally published in TMC (CCF A).
 summary: 宝剑锋从磨砺出，梅花香自苦寒来！！！☘️☘️☘️
 
 tags: []
