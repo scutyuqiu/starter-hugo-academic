@@ -1,9 +1,8 @@
 ---
-title: 2023-09-09
-subtitle: Congratulation!❤️ ❤️ ❤️ 
-summary: One paper accepted by TMC (CCF A)
-authors:
-  - admin
+title: 2023-09-09 Congratulation！！！One of our paper accepted by TMC (CCF A) 🎉🎉🎉
+subtitle: After two years, our latest work is "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence. Cloud "is finally published in TMC (CCF A).
+summary: 宝剑锋从磨砺出，梅花香自苦寒来！！！❤️ ❤️ ❤️ 
+
 tags: []
 categories: []
 projects: []
@@ -14,11 +13,5 @@ image:
   focal_point: ''
 ---
 
-![png](./index_1_0.png)
-
-## Welcome to my Academic!
-
-    After two years, Our latest work is "Online Security-Aware and Reliability-Guaranteed AI Service Chains Provisioning in Edge Intelligence. Cloud "is finally published in TMC (CCF A), the top journal of computer networking! 
-
-    In the process of real-time deployment of multiple AI services with chain dependencies, this paper finds and solves the problem of reliability and security antagonism among different services for the first time.
+## In the process of real-time deployment of multiple AI services with chain dependencies, this paper finds and solves the problem of reliability and security antagonism among different services for the first time.
 
