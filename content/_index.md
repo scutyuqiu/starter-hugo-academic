@@ -102,9 +102,6 @@ sections:
       email: qyu_edu@163.com
       address:
         street: Middle Ring Road East No.382, Guangzhou, Guangdon, China
-        city: 
-        province: 
-        country: 
       office_hours:
         - 'workday 9:00 to 18:00'
         - 'weekend 9:00 to 11:00'
