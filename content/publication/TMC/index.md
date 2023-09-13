@@ -8,7 +8,7 @@ authors:
 author_notes:
 #- "Equal contribution"
 
-date: "2022-09-09T00:00:00Z"
+date: "2023-09-09T00:00:00Z"
 doi: "10.1109/TMC.2023.3314580"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://maipdf.com/doc/d5069026733.maipdf
+url_pdf: https://maifile.cn/est/d2806945790726/pdf
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: ''
 #url_poster: ''

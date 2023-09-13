@@ -26,9 +26,9 @@ bio: My research interests include metaverse, edge intelligence, mobile edge com
 
 # Interests to show in About widget
 interests:
+  - Metaverse
   - Edge intelligence
-  - Resource allocation
-  - Approximation algorithm
+  - Fabric computing
 
 # Education to show in About widget
 education:
