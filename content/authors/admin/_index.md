@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate of Network
+role: PhD Candidate of AI for Network
 
 # Organizations/Affiliations to show in About widget
 organizations:

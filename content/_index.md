@@ -73,10 +73,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Artificial Intelligence
+          tag: AI
+        - name: Mobile Edge Computing
+          tag: MEC
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -101,9 +101,9 @@ sections:
       subtitle:
       email: qyu_edu@163.com
       address:
-        street: No. 100, University East Road, Xixiangtang District
-        city: Nanning
-        province: Guangxi Province
+        street: Middle Ring Road East No.382
+        city: Guangzhou
+        province: Guangdong
         country: China
       office_hours:
         - 'workday 9:00 to 18:00'
