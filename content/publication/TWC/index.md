@@ -42,7 +42,7 @@ url_pdf: https://maipdf.com/doc/d5069026733.maipdf
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'https://maipdf.com/est/d12632041656@pdf'
 #url_source: ''
 #url_video: ''
 

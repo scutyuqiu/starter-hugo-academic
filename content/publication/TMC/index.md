@@ -41,7 +41,7 @@ url_pdf: https://maifile.cn/est/d2806945790726/pdf
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
-#url_slides: ''
+url_slides: 'https://maipdf.com/est/d12632041656@pdf'
 #url_source: ''
 #url_video: ''
 
